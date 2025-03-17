@@ -1,0 +1,108 @@
+bad input
+Process:         miniRT [87959]
+Path:            /Volumes/VOLUME/*/miniRT
+Load Address:    0x10f8d0000
+Identifier:      miniRT
+Version:         ???
+Code Type:       X86-64
+Parent Process:  zsh [85924]
+
+Date/Time:       2025-03-08 21:42:10.537 +0000
+Launch Time:     2025-03-08 21:42:10.402 +0000
+OS Version:      Mac OS X 10.15.7 (19H2026)
+Report Version:  7
+Analysis Tool:   /usr/bin/leaks
+----
+
+leaks Report Version: 4.0
+Process 87959: 708 nodes malloced for 53 KB
+Process 87959: 0 leaks for 0 total leaked bytes.
+
+Process:         miniRT [88070]
+Path:            /Volumes/VOLUME/*/miniRT
+Load Address:    0x10436d000
+Identifier:      miniRT
+Version:         ???
+Code Type:       X86-64
+Parent Process:  zsh [85924]
+
+Date/Time:       2025-03-08 21:42:21.239 +0000
+Launch Time:     2025-03-08 21:42:21.114 +0000
+OS Version:      Mac OS X 10.15.7 (19H2026)
+Report Version:  7
+Analysis Tool:   /usr/bin/leaks
+----
+
+leaks Report Version: 4.0
+Process 88070: 712 nodes malloced for 58 KB
+Process 88070: 0 leaks for 0 total leaked bytes.
+
+0.200000
+255.000000
+255.000000
+255.000000
+
+#########################################
+
+70.000000
+-50.000000
+0.000000
+20.000000
+0.000000
+0.000000
+1.000000
+
+#########################################
+
+-40.000000
+0.000000
+30.000000
+0.700000
+
+#########################################
+
+0.000000
+0.000000
+20.000000
+255.000000
+0.000000
+0.000000
+20.000000
+
+#########################################
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.260000
+0.000000
+255.000000
+0.000000
+225.000000
+
+#########################################
+
+50.000000
+0.000000
+20.600000
+0.000000
+0.000000
+1.000000
+10.000000
+0.000000
+255.000000
+14.200000
+21.420000
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+0.000000
+0.000000
+0.000000
+0.000000
+1.000000
+0.000000
+255.000000
+0.000000
+225.000000
